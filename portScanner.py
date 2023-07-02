@@ -24,8 +24,8 @@ def port_scanner():
     display_banner()
     
     host = input("Enter the target host to scan: ")
-    start_port = int(input("Enter the starting port: "))
-    end_port = int(input("Enter the ending port: "))
+    start_port = int(input("Enter the starting range of port: (min-0)"))
+    end_port = int(input("Enter the ending range of port: (max-65536"))
     print("\nScanning in progress...\n")
     
     start_time = datetime.datetime.now()
