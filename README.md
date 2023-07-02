@@ -8,7 +8,11 @@
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/Iknowmyname/Network_Prototype/blob/main/Images_NP/Network-Topology.PNG" height="65%" width="65%" alt="sV"/>
+<img src="https://github.com/Iknowmyname/Python-Based-Port-Scanner/blob/main/port-scans.PNG" height="65%" width="65%" alt="sV"/>
 </p>
 <br />
 <br />
+ 
+- <b>Scans for open ports of the given host address</b>
+- <b>Users are able to specify port range intended to scan</b>
+- <b>The available port range is 0-65563</b>
