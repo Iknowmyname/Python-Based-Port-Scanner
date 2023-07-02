@@ -8,7 +8,7 @@
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/Iknowmyname/Python-Based-Port-Scanner/blob/main/port-scans.PNG" height="65%" width="65%" alt="sV"/>
+<img src="https://github.com/Iknowmyname/Python-Based-Port-Scanner/blob/main/Scanning-Ports.PNG" height="65%" width="65%" alt="sV"/>
 </p>
 <br />
 <br />
