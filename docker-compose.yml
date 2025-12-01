@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  demo-http1:
+    image: nginx:alpine
+    container_name: demo-http1
+    ports:
+      - "8080:80"
+  demo-http2:
+    image: nginx:alpine
+    container_name: demo-http2
+    ports:
+      - "8081:80"

@@ -1,0 +1,10 @@
+{"banner":"HTTP/1.1 200 OK\\r\\nServer: nginx/1.22.0","label":"http:nginx","port":8080}
+{"banner":"SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u7","label":"ssh","port":22}
+{"banner":"220 (vsFTPd 3.0.3)","label":"ftp","port":21}
+{"banner":"220 mail.example.com ESMTP Postfix","label":"smtp","port":25}
+{"banner":"HTTP/1.1 200 OK\\r\\nServer: Apache/2.4.41 (Ubuntu)","label":"http:apache","port":80}
+{"banner":"IMAP4rev1 Server ready","label":"imap","port":143}
+{"banner":"MySQL 5.7.33-log","label":"mysql","port":3306}
+{"banner":"Redis server v=6.0.9 sha=000000:0 malloc=libc bits=64 build=000000","label":"redis","port":6379}
+{"banner":"ELASTICSEARCH/7.9.3","label":"elasticsearch","port":9200}
+{"banner":"220 VMware Authentication Daemon Version 1.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC","label":"vmware","port":902}
