@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+ml/model*.pkl
+scan_results.jsonl
+data/
+node_modules/
