@@ -1,0 +1,13 @@
+{
+  "name": "netsense-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.x",
+    "react-dom": "18.x",
+    "axios": "^1.0.0"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
