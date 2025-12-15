@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
     X_text, y = load_data(args.data)
     X_train_text, X_test_text, y_train, y_test = train_test_split(
-        X_text, y, test_size=0.2, stratify=y, random_state=42
+        X_text, y, test_size=0.2, stratify=None, random_state=42
     )
 
     model = make_pipeline(TfidfVectorizer(ngram_range=(1,2), max_features=20000), LogisticRegression(max_iter=2000, class_weight='balanced'))
